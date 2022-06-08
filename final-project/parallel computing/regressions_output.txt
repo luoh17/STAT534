@@ -1,0 +1,1218 @@
+--------------------------------------------------------------------------
+Total Number of processors = 4
+Primary sends out work request [0] to replica [1]
+Primary sends out work request [1] to replica [2]
+Primary sends out work request [2] to replica [3]
+Replica 1 is waiting
+Replica 1 just received smth
+Replica 1 has received work request [0]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -82.868 
+
+Replica 2 is waiting
+Replica 2 just received smth
+Replica 2 has received work request [1]
+Replica 3 is waiting
+Replica 3 just received smth
+Replica 3 has received work request [2]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -89.675 
+
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -87.812 
+
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.748
+    beta1 = 1.021
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -84.170 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.796
+    beta1 = -0.663
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -91.138 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.807
+    beta1 = 0.757
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -89.271 
+    Monte Carlo integration = -84.104 
+Replica 1 finished processing work request [0]
+Replica 1 is waiting
+Primary has received the result of work request [1] from replica [1]
+
+ inserted regression [1]
+Primary sends out work request [3] to replica [1]
+Replica 1 just received smth
+Replica 1 has received work request [3]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -93.110 
+
+    Monte Carlo integration = -91.202 
+Primary has received the result of work request [2] from replica [2]
+
+ inserted regression [2]
+Primary sends out work request [4] to replica [2]
+Replica 2 finished processing work request [1]
+Replica 2 is waiting
+Replica 2 just received smth
+Replica 2 has received work request [4]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -91.239 
+
+    Monte Carlo integration = -89.282 
+Replica 3 finished processing work request [2]
+Replica 3 is waiting
+Replica 3 just received smth
+Replica 3 has received work request [5]
+Primary has received the result of work request [3] from replica [3]
+
+ inserted regression [3]
+Primary sends out work request [5] to replica [3]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -92.805 
+
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.742
+    beta1 = 0.372
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -94.749 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.758
+    beta1 = 0.529
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -92.787 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.742
+    beta1 = 0.397
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -94.448 
+Primary has received the result of work request [4] from replica [1]
+
+ inserted regression [4]
+Primary sends out work request [6] to replica [1]
+    Monte Carlo integration = -94.751 
+Replica 1 finished processing work request [3]
+Replica 1 is waiting
+Replica 1 just received smth
+Replica 1 has received work request [6]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -93.759 
+
+    Monte Carlo integration = -92.702 
+Replica 2 finished processing work request [4]
+Replica 2 is waiting
+Replica 2 just received smth
+Replica 2 has received work request [7]
+Primary has received the result of work request [5] from replica [2]
+
+ inserted regression [5]
+Primary sends out work request [7] to replica [2]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -86.560 
+
+    Monte Carlo integration = -94.412 
+Replica 3 finished processing work request [5]
+Replica 3 is waiting
+Replica 3 just received smth
+Replica 3 has received work request [8]
+Primary has received the result of work request [6] from replica [3]
+
+ inserted regression [6]
+Primary sends out work request [8] to replica [3]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -94.004 
+
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.741
+    beta1 = 0.322
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -95.406 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.711
+    beta1 = 0.370
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -95.465 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.783
+    beta1 = 0.805
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -88.024 
+    Monte Carlo integration = -95.434 
+Replica 1 finished processing work request [6]
+Replica 1 is waiting
+Replica 1 just received smth
+Replica 1 has received work request [9]
+Primary has received the result of work request [7] from replica [1]
+
+ inserted regression [7]
+Primary sends out work request [9] to replica [1]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -93.256 
+
+    Monte Carlo integration = -nan 
+Replica 3 finished processing work request [8]
+Replica 3 is waiting
+Replica 3 just received smth
+Replica 3 has received work request [10]
+Primary has received the result of work request [9] from replica [3]
+
+ inserted regression [9]
+Primary sends out work request [10] to replica [3]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -90.416 
+
+    Monte Carlo integration = -87.962 
+Replica 2 finished processing work request [7]
+Replica 2 is waiting
+Replica 2 just received smth
+Replica 2 has received work request [11]
+Primary has received the result of work request [8] from replica [2]
+
+ inserted regression [8]
+Primary sends out work request [11] to replica [2]
+
+ NR algorithm converged after 3 iterations.
+    l*(beta0, beta1) = -94.511 
+
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.754
+    beta1 = 0.384
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -94.843 
+[cls-cmp-a11:48538] 3 more processes have sent help message help-mpi-btl-base.txt / btl:no-nics
+[cls-cmp-a11:48538] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.730
+    beta1 = -0.243
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -96.145 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.763
+    beta1 = 0.570
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -91.983 
+    Monte Carlo integration = -94.797 
+Replica 1 finished processing work request [9]
+Replica 1 is waiting
+Primary has received the result of work request [10] from replica [1]
+
+ inserted regression [10]
+Primary sends out work request [12] to replica [1]
+Replica 1 just received smth
+Replica 1 has received work request [12]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -90.560 
+
+    Monte Carlo integration = -96.067 
+Primary has received the result of work request [12] from replica [2]
+
+ inserted regression [12]
+Primary sends out work request [13] to replica [2]
+Replica 2 finished processing work request [11]
+Replica 2 is waiting
+Replica 2 just received smth
+Replica 2 has received work request [13]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -93.738 
+
+    Monte Carlo integration = -91.974 
+Replica 3 finished processing work request [10]
+Replica 3 is waiting
+Primary has received the result of work request [11] from replica [3]
+
+ inserted regression [11]
+Primary sends out work request [14] to replica [3]
+Replica 3 just received smth
+Replica 3 has received work request [14]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -89.875 
+
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.759
+    beta1 = 0.560
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -92.140 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.740
+    beta1 = 0.322
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -95.391 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.799
+    beta1 = 0.708
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -91.258 
+    Monte Carlo integration = -92.174 
+Replica 1 finished processing work request [12]
+Replica 1 is waiting
+Replica 1 just received smth
+Replica 1 has received work request [15]
+Primary has received the result of work request [13] from replica [1]
+
+ inserted regression [13]
+Primary sends out work request [15] to replica [1]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -91.940 
+
+    Monte Carlo integration = -95.450 
+Replica 2 finished processing work request [13]
+Replica 2 is waiting
+Replica 2 just received smth
+Replica 2 has received work request [16]
+Primary has received the result of work request [14] from replica [2]
+
+ inserted regression [14]
+Primary sends out work request [16] to replica [2]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -89.827 
+
+    Monte Carlo integration = -91.385 
+Replica 3 finished processing work request [14]
+Replica 3 is waiting
+Replica 3 just received smth
+Replica 3 has received work request [17]
+Primary has received the result of work request [15] from replica [3]
+
+ inserted regression [15]
+Primary sends out work request [17] to replica [3]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -87.573 
+
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.764
+    beta1 = 0.483
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -93.492 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.789
+    beta1 = -0.649
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -91.314 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.781
+    beta1 = 0.718
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -89.089 
+    Monte Carlo integration = -93.516 
+Replica 1 finished processing work request [15]
+Replica 1 is waiting
+Replica 1 just received smth
+Replica 1 has received work request [18]
+Primary has received the result of work request [16] from replica [1]
+
+ inserted regression [16]
+Primary sends out work request [18] to replica [1]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -89.079 
+
+    Monte Carlo integration = -91.334 
+Replica 2 finished processing work request [16]
+Replica 2 is waiting
+Primary has received the result of work request [17] from replica [2]
+
+ inserted regression [17]
+Primary sends out work request [19] to replica [2]
+Replica 2 just received smth
+Replica 2 has received work request [19]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -93.229 
+
+    Monte Carlo integration = -89.094 
+Replica 3 finished processing work request [17]
+Replica 3 is waiting
+Primary has received the result of work request [18] from replica [3]
+
+ inserted regression [18]
+Primary sends out work request [20] to replica [3]
+Replica 3 just received smth
+Replica 3 has received work request [20]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -84.316 
+
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.754
+    beta1 = 0.735
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -90.425 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.738
+    beta1 = 0.364
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -94.868 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.833
+    beta1 = 0.890
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -85.747 
+    Monte Carlo integration = -90.414 
+Replica 1 finished processing work request [18]
+Replica 1 is waiting
+Primary has received the result of work request [19] from replica [1]
+
+ inserted regression [19]
+Primary sends out work request [21] to replica [1]
+Replica 1 just received smth
+Replica 1 has received work request [21]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -82.640 
+
+    Monte Carlo integration = -94.839 
+Primary has received the result of work request [20] from replica [2]
+
+ inserted regression [20]
+Primary sends out work request [22] to replica [2]
+Replica 2 finished processing work request [19]
+Replica 2 is waiting
+Replica 2 just received smth
+Replica 2 has received work request [22]
+
+ NR algorithm converged after 5 iterations.
+    l*(beta0, beta1) = -78.269 
+
+    Monte Carlo integration = -85.653 
+Replica 3 finished processing work request [20]
+Replica 3 is waiting
+Replica 3 just received smth
+Replica 3 has received work request [23]
+Primary has received the result of work request [21] from replica [3]
+
+ inserted regression [21]
+Primary sends out work request [23] to replica [3]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -92.557 
+
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.840
+    beta1 = 0.973
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -84.037 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.904
+    beta1 = 1.239
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -79.484 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.745
+    beta1 = -0.437
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -94.157 
+    Monte Carlo integration = -84.025 
+Replica 1 finished processing work request [21]
+Replica 1 is waiting
+Replica 1 just received smth
+Replica 1 has received work request [24]
+Primary has received the result of work request [22] from replica [1]
+
+ inserted regression [22]
+Primary sends out work request [24] to replica [1]
+
+ NR algorithm converged after 3 iterations.
+    l*(beta0, beta1) = -94.904 
+
+    Monte Carlo integration = -79.501 
+Replica 2 finished processing work request [22]
+Replica 2 is waiting
+Replica 2 just received smth
+Replica 2 has received work request [25]
+Primary has received the result of work request [23] from replica [2]
+
+ inserted regression [23]
+Primary sends out work request [25] to replica [2]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -90.185 
+
+    Monte Carlo integration = -94.169 
+Replica 3 finished processing work request [23]
+Replica 3 is waiting
+Replica 3 just received smth
+Replica 3 has received work request [26]
+Primary has received the result of work request [24] from replica [3]
+
+ inserted regression [24]
+Primary sends out work request [26] to replica [3]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -88.890 
+
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.722
+    beta1 = 0.166
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -96.582 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.753
+    beta1 = 0.586
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -91.734 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.794
+    beta1 = -0.670
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -90.409 
+    Monte Carlo integration = -96.543 
+Replica 1 finished processing work request [24]
+Replica 1 is waiting
+Replica 1 just received smth
+Replica 1 has received work request [27]
+Primary has received the result of work request [25] from replica [1]
+
+ inserted regression [25]
+Primary sends out work request [27] to replica [1]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -93.570 
+
+    Monte Carlo integration = -91.770 
+Replica 2 finished processing work request [25]
+Replica 2 is waiting
+Replica 2 just received smth
+Replica 2 has received work request [28]
+Primary has received the result of work request [26] from replica [2]
+
+ inserted regression [26]
+Primary sends out work request [28] to replica [2]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -90.428 
+
+    Monte Carlo integration = -90.373 
+Replica 3 finished processing work request [26]
+Replica 3 is waiting
+Primary has received the result of work request [27] from replica [3]
+
+ inserted regression [27]
+Primary sends out work request [29] to replica [3]
+Replica 3 just received smth
+Replica 3 has received work request [29]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -89.356 
+
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.734
+    beta1 = 0.337
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -95.212 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.773
+    beta1 = 0.574
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -91.990 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.791
+    beta1 = 0.676
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -90.809 
+    Monte Carlo integration = -95.120 
+Replica 1 finished processing work request [27]
+Replica 1 is waiting
+Primary has received the result of work request [28] from replica [1]
+
+ inserted regression [28]
+Primary sends out work request [30] to replica [1]
+Replica 1 just received smth
+Replica 1 has received work request [30]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -89.363 
+
+    Monte Carlo integration = -92.017 
+Primary has received the result of work request [29] from replica [2]
+
+ inserted regression [29]
+Primary sends out work request [31] to replica [2]
+Replica 2 finished processing work request [28]
+Replica 2 is waiting
+Replica 2 just received smth
+Replica 2 has received work request [31]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -89.120 
+
+    Monte Carlo integration = -90.809 
+Replica 3 finished processing work request [29]
+Replica 3 is waiting
+Primary has received the result of work request [30] from replica [3]
+
+ inserted regression [30]
+Primary sends out work request [32] to replica [3]
+Replica 3 just received smth
+Replica 3 has received work request [32]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -94.097 
+
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.784
+    beta1 = 0.646
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -90.890 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.809
+    beta1 = -0.746
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -90.487 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.722
+    beta1 = 0.290
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -95.735 
+    Monte Carlo integration = -90.845 
+Replica 1 finished processing work request [30]
+Replica 1 is waiting
+Replica 1 just received smth
+Replica 1 has received work request [33]
+Primary has received the result of work request [31] from replica [1]
+
+ inserted regression [31]
+Primary sends out work request [33] to replica [1]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -87.666 
+
+    Monte Carlo integration = -90.488 
+Replica 2 finished processing work request [31]
+Replica 2 is waiting
+Replica 2 just received smth
+Replica 2 has received work request [34]
+Primary has received the result of work request [32] from replica [2]
+
+ inserted regression [32]
+Primary sends out work request [34] to replica [2]
+
+ NR algorithm converged after 3 iterations.
+    l*(beta0, beta1) = -95.006 
+
+    Monte Carlo integration = -95.696 
+Replica 3 finished processing work request [32]
+Replica 3 is waiting
+Replica 3 just received smth
+Replica 3 has received work request [35]
+Primary has received the result of work request [33] from replica [3]
+
+ inserted regression [33]
+Primary sends out work request [35] to replica [3]
+
+ NR algorithm converged after 3 iterations.
+    l*(beta0, beta1) = -95.060 
+
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.814
+    beta1 = -0.774
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -89.095 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.726
+    beta1 = 0.127
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -96.735 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.728
+    beta1 = 0.146
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -96.688 
+    Monte Carlo integration = -89.121 
+Replica 1 finished processing work request [33]
+Replica 1 is waiting
+Replica 1 just received smth
+Replica 1 has received work request [36]
+Primary has received the result of work request [34] from replica [1]
+
+ inserted regression [34]
+Primary sends out work request [36] to replica [1]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -82.061 
+
+    Monte Carlo integration = -96.689 
+Replica 2 finished processing work request [34]
+Replica 2 is waiting
+Replica 2 just received smth
+Replica 2 has received work request [37]
+Primary has received the result of work request [35] from replica [2]
+
+ inserted regression [35]
+Primary sends out work request [37] to replica [2]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -91.938 
+
+    Monte Carlo integration = -96.788 
+Replica 3 finished processing work request [35]
+Replica 3 is waiting
+Replica 3 just received smth
+Replica 3 has received work request [38]
+Primary has received the result of work request [36] from replica [3]
+
+ inserted regression [36]
+Primary sends out work request [38] to replica [3]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -86.081 
+
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.849
+    beta1 = 1.012
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -83.421 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.767
+    beta1 = -0.488
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -93.491 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.817
+    beta1 = 0.850
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -87.493 
+    Monte Carlo integration = -83.479 
+Replica 1 finished processing work request [36]
+Replica 1 is waiting
+Replica 1 just received smth
+Replica 1 has received work request [39]
+Primary has received the result of work request [37] from replica [1]
+
+ inserted regression [37]
+Primary sends out work request [39] to replica [1]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -89.498 
+
+    Monte Carlo integration = -93.472 
+Replica 2 finished processing work request [37]
+Replica 2 is waiting
+Replica 2 just received smth
+Replica 2 has received work request [40]
+Primary has received the result of work request [38] from replica [2]
+
+ inserted regression [38]
+Primary sends out work request [40] to replica [2]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -89.694 
+
+    Monte Carlo integration = -87.469 
+Replica 3 finished processing work request [38]
+Replica 3 is waiting
+Replica 3 just received smth
+Replica 3 has received work request [41]
+Primary has received the result of work request [39] from replica [3]
+
+ inserted regression [39]
+Primary sends out work request [41] to replica [3]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -84.405 
+
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.773
+    beta1 = 0.642
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -91.010 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.780
+    beta1 = -0.623
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -91.252 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.828
+    beta1 = -0.931
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -85.785 
+    Monte Carlo integration = -91.031 
+Replica 1 finished processing work request [39]
+Replica 1 is waiting
+Primary has received the result of work request [40] from replica [1]
+
+ inserted regression [40]
+Primary sends out work request [42] to replica [1]
+Replica 1 just received smth
+Replica 1 has received work request [42]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -92.554 
+
+    Monte Carlo integration = -91.292 
+Primary has received the result of work request [41] from replica [2]
+
+ inserted regression [41]
+Primary sends out work request [43] to replica [2]
+Replica 2 finished processing work request [40]
+Replica 2 is waiting
+Replica 2 just received smth
+Replica 2 has received work request [43]
+
+ NR algorithm converged after 3 iterations.
+    l*(beta0, beta1) = -94.268 
+
+    Monte Carlo integration = -85.724 
+Primary has received the result of work request [42] from replica [3]
+
+ inserted regression [42]
+Primary sends out work request [44] to replica [3]
+Replica 3 finished processing work request [41]
+Replica 3 is waiting
+Replica 3 just received smth
+Replica 3 has received work request [44]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -93.516 
+
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.743
+    beta1 = -0.434
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -94.163 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.726
+    beta1 = 0.264
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -95.919 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.747
+    beta1 = -0.349
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -95.126 
+    Monte Carlo integration = -94.092 
+Replica 1 finished processing work request [42]
+Replica 1 is waiting
+Primary has received the result of work request [43] from replica [1]
+
+ inserted regression [43]
+Primary sends out work request [45] to replica [1]
+Replica 1 just received smth
+Replica 1 has received work request [45]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -85.264 
+
+    Monte Carlo integration = -95.902 
+Replica 2 finished processing work request [43]
+Replica 2 is waiting
+Primary has received the result of work request [44] from replica [2]
+
+ inserted regression [44]
+Primary sends out work request [46] to replica [2]
+Replica 2 just received smth
+Replica 2 has received work request [46]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -90.057 
+
+    Monte Carlo integration = -95.085 
+Replica 3 finished processing work request [44]
+Replica 3 is waiting
+Replica 3 just received smth
+Replica 3 has received work request [47]
+Primary has received the result of work request [45] from replica [3]
+
+ inserted regression [45]
+Primary sends out work request [47] to replica [3]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -89.919 
+
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.820
+    beta1 = 0.918
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -86.609 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.773
+    beta1 = 0.587
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -91.623 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.778
+    beta1 = 0.609
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -91.467 
+    Monte Carlo integration = -86.612 
+Primary has received the result of work request [46] from replica [1]
+
+ inserted regression [46]
+Primary sends out work request [48] to replica [1]
+Replica 1 finished processing work request [45]
+Replica 1 is waiting
+Replica 1 just received smth
+Replica 1 has received work request [48]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -88.850 
+
+    Monte Carlo integration = -91.619 
+Primary has received the result of work request [47] from replica [2]
+
+ inserted regression [47]
+Primary sends out work request [49] to replica [2]
+Replica 2 finished processing work request [46]
+Replica 2 is waiting
+Replica 2 just received smth
+Replica 2 has received work request [49]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -90.852 
+
+    Monte Carlo integration = -91.397 
+Primary has received the result of work request [48] from replica [3]
+
+ inserted regression [48]
+Primary sends out work request [50] to replica [3]
+Replica 3 finished processing work request [47]
+Replica 3 is waiting
+Replica 3 just received smth
+Replica 3 has received work request [50]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -93.687 
+
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.767
+    beta1 = 0.649
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -90.412 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.767
+    beta1 = -0.560
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -92.421 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.737
+    beta1 = -0.335
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -95.323 
+    Monte Carlo integration = -90.430 
+Replica 1 finished processing work request [48]
+Replica 1 is waiting
+Replica 1 just received smth
+Replica 1 has received work request [51]
+Primary has received the result of work request [49] from replica [1]
+
+ inserted regression [49]
+Primary sends out work request [51] to replica [1]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -92.201 
+
+    Monte Carlo integration = -92.356 
+Replica 2 finished processing work request [49]
+Replica 2 is waiting
+Replica 2 just received smth
+Replica 2 has received work request [52]
+Primary has received the result of work request [50] from replica [2]
+
+ inserted regression [50]
+Primary sends out work request [52] to replica [2]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -92.346 
+
+    Monte Carlo integration = -95.343 
+Replica 3 finished processing work request [50]
+Replica 3 is waiting
+Replica 3 just received smth
+Replica 3 has received work request [53]
+Primary has received the result of work request [51] from replica [3]
+
+ inserted regression [51]
+Primary sends out work request [53] to replica [3]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -89.784 
+
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.754
+    beta1 = 0.462
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -93.794 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.764
+    beta1 = -0.465
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -93.903 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.784
+    beta1 = 0.652
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -91.259 
+    Monte Carlo integration = -93.770 
+Replica 1 finished processing work request [51]
+Replica 1 is waiting
+Replica 1 just received smth
+Replica 1 has received work request [54]
+Primary has received the result of work request [52] from replica [1]
+
+ inserted regression [52]
+Primary sends out work request [54] to replica [1]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -89.165 
+
+    Monte Carlo integration = -93.932 
+Replica 2 finished processing work request [52]
+Replica 2 is waiting
+Replica 2 just received smth
+Replica 2 has received work request [55]
+Primary has received the result of work request [53] from replica [2]
+
+ inserted regression [53]
+Primary sends out work request [55] to replica [2]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -89.385 
+
+    Monte Carlo integration = -91.252 
+Replica 3 finished processing work request [53]
+Replica 3 is waiting
+Replica 3 just received smth
+Replica 3 has received work request [56]
+Primary has received the result of work request [54] from replica [3]
+
+ inserted regression [54]
+Primary sends out work request [56] to replica [3]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -93.651 
+
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.793
+    beta1 = 0.668
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -90.684 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.767
+    beta1 = 0.614
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -90.961 
+    Monte Carlo integration = -90.606 
+Replica 1 finished processing work request [54]
+Replica 1 is waiting
+Primary has received the result of work request [55] from replica [1]
+
+ inserted regression [55]
+Primary sends out work request [57] to replica [1]
+Replica 1 just received smth
+Replica 1 has received work request [57]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -90.878 
+
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.740
+    beta1 = 0.331
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -95.298 
+    Monte Carlo integration = -90.916 
+Primary has received the result of work request [56] from replica [2]
+
+ inserted regression [56]
+Primary sends out work request [58] to replica [2]
+Replica 2 finished processing work request [55]
+Replica 2 is waiting
+Replica 2 just received smth
+Replica 2 has received work request [58]
+
+ NR algorithm converged after 3 iterations.
+    l*(beta0, beta1) = -95.350 
+
+    Monte Carlo integration = -95.243 
+Replica 3 finished processing work request [56]
+Replica 3 is waiting
+Primary has received the result of work request [57] from replica [3]
+
+ inserted regression [57]
+Primary sends out work request [59] to replica [3]
+Replica 3 just received smth
+Replica 3 has received work request [59]
+
+ NR algorithm converged after 4 iterations.
+    l*(beta0, beta1) = -92.382 
+
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.758
+    beta1 = 0.559
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -92.448 
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.720
+    beta1 = 0.011
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -97.025 
+    Monte Carlo integration = -92.455 
+Replica 1 finished processing work request [57]
+Replica 1 is waiting
+Primary has received the result of work request [58]
+
+ inserted regression [58]
+ Starting Metropolis-Hastings Algorithm...Metropolis-Hastings finished.
+ Sample means:
+    beta0 = -0.756
+    beta1 = -0.455
+
+ Posterior log marginal likelihood P(D) estimates:
+    Laplace approximation = -93.982 
+    Monte Carlo integration = -97.021 
+Replica 2 finished processing work request [58]
+Replica 2 is waiting
+Primary has received the result of work request [59]
+
+ inserted regression [59]
+    Monte Carlo integration = -93.975 
+Replica 3 finished processing work request [59]
+Replica 3 is waiting
+Replica 3 just received smth
+Replica 3 was told to shutdown
+Replica 1 just received smth
+Replica 1 was told to shutdown
+Primary has received the result of work request [60]
+
+ inserted regression [60]
+Tell the replicas to shutdown.
+Primary is shutting down replica [1]
+Primary is shutting down replica [2]
+Primary is shutting down replica [3]
+got to the end of Primary code
+Replica 2 just received smth
+Replica 2 was told to shutdown

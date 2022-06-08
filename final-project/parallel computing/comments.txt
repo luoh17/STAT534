@@ -1,0 +1,18 @@
+It seems that 10,000 runs is not very stable since I have some iterations return 42 rather than 21, or 42 rather than 1. Even when we increase the number of runs to 100,000, this problem sometimes still happens. Based on the Monte Carlo integration estimate of the log marginal likelihood, the ordering might be different for each run. These were my results using 10,000 iterations for both Monte Carlo integration and the Metropolis Hastings algorithm on my last run.
+
+
+j		   mc		   la		  b0		  b1
+23		-79.415		-79.484		-0.901		1.244
+37		-83.489		-83.421		-0.847		1.018
+22		-84.134		-84.037		-0.837		0.976
+1		-84.206		-84.170		-0.758		1.014
+21		-85.740		-85.747		-0.821		0.893
+
+
+j: index
+mc = Log marginal likelihood estimated by Monte Carlo integration
+la = Log marginal likelihood estimated by Laplace approximation
+b0 = Metropolis-Hastings coefficient estimate for intercept
+b1 = Metropolis-Hastings coefficient estimate for predictor
+
+The results of the program are stored in a text file called "regressions_output.txt".

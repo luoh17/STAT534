@@ -1,0 +1,479 @@
+l*(beta0, beta1) = -82.868 
+beta0 = -0.758
+beta1 = 1.014
+Laplace approximation = -84.170 
+Monte Carlo integration = -84.206 
+
+inserted regression [1]
+
+l*(beta0, beta1) = -89.675 
+beta0 = -0.793
+beta1 = -0.669
+Laplace approximation = -91.138 
+Monte Carlo integration = -91.071 
+
+inserted regression [2]
+
+l*(beta0, beta1) = -87.812 
+beta0 = -0.790
+beta1 = 0.741
+Laplace approximation = -89.271 
+Monte Carlo integration = -89.281 
+
+inserted regression [3]
+
+l*(beta0, beta1) = -93.110 
+beta0 = -0.743
+beta1 = 0.373
+Laplace approximation = -94.749 
+Monte Carlo integration = -94.793 
+
+inserted regression [4]
+
+l*(beta0, beta1) = -91.239 
+beta0 = -0.764
+beta1 = 0.540
+Laplace approximation = -92.787 
+Monte Carlo integration = -92.831 
+
+inserted regression [5]
+
+l*(beta0, beta1) = -92.805 
+beta0 = -0.743
+beta1 = 0.402
+Laplace approximation = -94.448 
+Monte Carlo integration = -94.369 
+
+inserted regression [6]
+
+l*(beta0, beta1) = -93.759 
+beta0 = -0.743
+beta1 = 0.309
+Laplace approximation = -95.406 
+Monte Carlo integration = -95.363 
+
+inserted regression [7]
+
+l*(beta0, beta1) = -86.560 
+beta0 = -0.781
+beta1 = 0.789
+Laplace approximation = -88.024 
+Monte Carlo integration = -87.926 
+
+inserted regression [8]
+
+l*(beta0, beta1) = -94.004 
+beta0 = -0.717
+beta1 = 0.377
+Laplace approximation = -95.465 
+Monte Carlo integration = -95.309 
+
+inserted regression [9]
+
+l*(beta0, beta1) = -93.256 
+beta0 = -0.740
+beta1 = 0.378
+Laplace approximation = -94.843 
+Monte Carlo integration = -94.881 
+
+inserted regression [10]
+
+l*(beta0, beta1) = -90.416 
+beta0 = -0.767
+beta1 = 0.577
+Laplace approximation = -91.983 
+Monte Carlo integration = -91.931 
+
+inserted regression [11]
+
+l*(beta0, beta1) = -94.511 
+beta0 = -0.732
+beta1 = -0.228
+Laplace approximation = -96.145 
+Monte Carlo integration = -96.066 
+
+inserted regression [12]
+
+l*(beta0, beta1) = -90.560 
+beta0 = -0.761
+beta1 = 0.543
+Laplace approximation = -92.140 
+Monte Carlo integration = -92.062 
+
+inserted regression [13]
+
+l*(beta0, beta1) = -93.738  
+beta0 = -0.725
+beta1 = 0.317
+Laplace approximation = -95.391 
+Monte Carlo integration = -95.371 
+
+Input regression [14]
+
+l*(beta0, beta1) = -89.875 
+beta0 = -0.790
+beta1 = 0.693
+Laplace approximation = -91.258 
+Monte Carlo integration = -91.279 
+
+Input regression [15]
+
+l*(beta0, beta1) = -91.940 
+beta0 = -0.767
+beta1 = 0.489
+Laplace approximation = -93.492 
+Monte Carlo integration = -93.470 
+
+Input regression [16]
+
+l*(beta0, beta1) = -89.827 
+beta0 = -0.781
+beta1 = -0.647
+Laplace approximation = -91.314 
+Monte Carlo integration = -91.380 
+
+Input regression [17]
+
+l*(beta0, beta1) = -87.573 
+beta0 = -0.788
+beta1 = 0.738
+Laplace approximation = -89.089 
+Monte Carlo integration = -89.091 
+
+Input regression [18]
+
+l*(beta0, beta1) = -89.079 
+beta0 = -0.750
+beta1 = 0.747
+Laplace approximation = -90.425 
+Monte Carlo integration = -90.429 
+
+Input regression [19]
+
+l*(beta0, beta1) = -93.229 
+beta0 = -0.741
+beta1 = 0.361
+Laplace approximation = -94.868 
+Monte Carlo integration = -94.798 
+
+Input regression [20]
+
+l*(beta0, beta1) = -84.316 
+beta0 = -0.823
+beta1 = 0.904
+Laplace approximation = -85.747 
+Monte Carlo integration = -85.629 
+
+Input regression [21]
+
+l*(beta0, beta1) = -82.640 
+beta0 = -0.844
+beta1 = 0.972
+Laplace approximation = -84.037 
+Monte Carlo integration = -83.990 
+
+Input regression [22]
+
+l*(beta0, beta1) = -78.269 
+beta0 = -0.907
+beta1 = 1.233
+Laplace approximation = -79.484 
+Monte Carlo integration = -79.389 
+
+Input regression [23]
+
+l*(beta0, beta1) = -92.557 
+beta0 = -0.751
+beta1 = -0.431
+Laplace approximation = -94.157 
+Monte Carlo integration = -94.149 
+
+Input regression [24]
+
+l*(beta0, beta1) = -94.904 
+beta0 = -0.725
+beta1 = 0.166
+Laplace approximation = -96.582 
+Monte Carlo integration = -96.631 
+
+Input regression [25]
+
+l*(beta0, beta1) = -90.185 
+beta0 = -0.748
+beta1 = 0.579
+Laplace approximation = -91.734 
+Monte Carlo integration = -91.778 
+
+Input regression [26]
+
+l*(beta0, beta1) = -88.890 
+beta0 = -0.793
+beta1 = -0.675
+Laplace approximation = -90.409 
+Monte Carlo integration = -90.454 
+
+Input regression [27]
+
+l*(beta0, beta1) = -93.570 
+beta0 = -0.729
+beta1 = 0.334
+Laplace approximation = -95.212 
+Monte Carlo integration = -95.154 
+
+Input regression [28]
+
+l*(beta0, beta1) = -90.428 
+beta0 = -0.773
+beta1 = 0.584
+Laplace approximation = -91.990 
+Monte Carlo integration = -91.950 
+
+Input regression [29]
+
+l*(beta0, beta1) = -89.356 
+beta0 = -0.791
+beta1 = 0.684
+Laplace approximation = -90.809 
+Monte Carlo integration = -90.815 
+
+Input regression [30]
+
+l*(beta0, beta1) = -89.363 
+beta0 = -0.781
+beta1 = 0.652
+Laplace approximation = -90.890 
+Monte Carlo integration = -90.897 
+
+Input regression [31]
+
+l*(beta0, beta1) = -89.120 
+beta0 = -0.802
+beta1 = -0.757
+Laplace approximation = -90.487 
+Monte Carlo integration = -90.571 
+
+Input regression [32]
+
+l*(beta0, beta1) = -94.097 
+beta0 = -0.740
+beta1 = 0.283
+Laplace approximation = -95.735 
+Monte Carlo integration = -95.732 
+
+Input regression [33]
+
+l*(beta0, beta1) = -87.666 
+beta0 = -0.817
+beta1 = -0.765
+Laplace approximation = -89.095 
+Monte Carlo integration = -89.036 
+
+Input regression [34]
+
+l*(beta0, beta1) = -95.006 
+beta0 = -0.726
+beta1 = 0.145
+Laplace approximation = -96.688 
+Monte Carlo integration = -96.682 
+
+Input regression [35]
+
+l*(beta0, beta1) = -95.060 
+beta0 = -0.718
+beta1 = 0.131
+Laplace approximation = -96.735 
+Monte Carlo integration = -96.636 
+
+Input regression [36]
+
+l*(beta0, beta1) = -82.061 
+beta0 = -0.849
+beta1 = 1.020
+Laplace approximation = -83.421 
+Monte Carlo integration = -83.425 
+
+Input regression [37]
+
+l*(beta0, beta1) = -91.938 
+beta0 = -0.770
+beta1 = -0.498
+Laplace approximation = -93.491 
+Monte Carlo integration = -93.469 
+
+Input regression [38]
+
+l*(beta0, beta1) = -86.081 
+beta0 = -0.820
+beta1 = 0.858
+Laplace approximation = -87.493 
+Monte Carlo integration = -87.486 
+
+Input regression [39]
+
+l*(beta0, beta1) = -89.498 
+beta0 = -0.773
+beta1 = 0.646
+Laplace approximation = -91.010 
+Monte Carlo integration = -90.995 
+
+Input regression [40]
+
+l*(beta0, beta1) = -89.694 
+beta0 = -0.774
+beta1 = -0.602
+Laplace approximation = -91.252 
+Monte Carlo integration = -91.275 
+
+Input regression [41]
+
+l*(beta0, beta1) = -84.405 
+beta0 = -0.838
+beta1 = -0.943
+Laplace approximation = -85.785 
+Monte Carlo integration = -85.763 
+
+Input regression [42]
+
+l*(beta0, beta1) = -92.554 
+beta0 = -0.744
+beta1 = -0.423
+Laplace approximation = -94.163 
+Monte Carlo integration = -94.086 
+
+Input regression [43]
+
+l*(beta0, beta1) = -94.268 
+beta0 = -0.735
+beta1 = 0.272
+Laplace approximation = -95.919 
+Monte Carlo integration = -95.899 
+
+Input regression [44]
+
+l*(beta0, beta1) = -93.516 
+beta0 = -0.738
+beta1 = -0.344
+Laplace approximation = -95.126 
+Monte Carlo integration = -95.139 
+
+Input regression [45]
+
+l*(beta0, beta1) = -85.264 
+beta0 = -0.843
+beta1 = 0.941
+Laplace approximation = -86.609 
+Monte Carlo integration = -86.569 
+
+Input regression [46]
+
+l*(beta0, beta1) = -90.057 
+beta0 = -0.770
+beta1 = 0.604
+Laplace approximation = -91.623 
+Monte Carlo integration = -91.592 
+
+Input regression [47]
+
+
+l*(beta0, beta1) = -89.919 
+beta0 = -0.771
+beta1 = 0.608
+Laplace approximation = -91.467 
+Monte Carlo integration = -91.420 
+
+Input regression [48]
+
+l*(beta0, beta1) = -88.850 
+beta0 = -0.785
+beta1 = 0.661
+Laplace approximation = -90.412 
+Monte Carlo integration = -90.315 
+
+Input regression [49]
+
+l*(beta0, beta1) = -90.852 
+beta0 = -0.768
+beta1 = -0.553
+Laplace approximation = -92.421 
+Monte Carlo integration = -92.441 
+
+Input regression [50]
+
+l*(beta0, beta1) = -93.687 
+beta0 = -0.734
+beta1 = -0.329
+Laplace approximation = -95.323 
+Monte Carlo integration = -95.284 
+
+Input regression [51]
+
+l*(beta0, beta1) = -92.201 
+beta0 = -0.753
+beta1 = 0.464
+Laplace approximation = -93.794 
+Monte Carlo integration = -93.833 
+
+Input regression [52]
+
+l*(beta0, beta1) = -92.346 
+beta0 = -0.753    
+beta1 = -0.467
+Laplace approximation = -93.903 
+Monte Carlo integration = -93.872 
+
+Input regression [53]
+
+l*(beta0, beta1) = -89.784 
+beta0 = -0.793
+beta1 = 0.645
+Laplace approximation = -91.259 
+Monte Carlo integration = -91.317 
+
+Input regression [54]
+
+l*(beta0, beta1) = -89.165 
+beta0 = -0.775
+beta1 = 0.663
+Laplace approximation = -90.684 
+Monte Carlo integration = -90.676 
+
+Input regression [55]
+
+l*(beta0, beta1) = -89.385 
+beta0 = -0.775 beta1 = 0.619
+Laplace approximation = -90.961 
+Monte Carlo integration = -90.959 
+
+Input regression [56]
+
+l*(beta0, beta1) = -93.651 
+beta0 = -0.731
+beta1 = 0.332
+Laplace approximation = -95.298 
+Monte Carlo integration = -95.238 
+
+Input regression [57]
+
+l*(beta0, beta1) = -90.878 
+beta0 = -0.759
+beta1 = 0.539
+Laplace approximation = -92.448 
+Monte Carlo integration = -92.445 
+
+Input regression [58]
+
+l*(beta0, beta1) = -95.350 
+beta0 = -0.724
+beta1 = 0.026
+Laplace approximation = -97.025 
+Monte Carlo integration = -97.060 
+
+Input regression [59]
+
+l*(beta0, beta1) = -92.382 
+beta0 = -0.755
+beta1 = -0.444
+Laplace approximation = -93.982 
+Monte Carlo integration = -93.977 
+
+Input regression [60]
